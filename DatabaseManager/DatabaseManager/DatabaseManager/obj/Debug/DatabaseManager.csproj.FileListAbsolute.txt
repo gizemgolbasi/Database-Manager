@@ -1,0 +1,146 @@
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.DatabaseListForm.resources
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Form1.resources
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Properties.Resources.resources
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.GenerateResource.cache
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.pdb
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.AssemblyReference.cache
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\itextsharp.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Buffers.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Memory.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\itextsharp.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Buffers.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Memory.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gizem Gölbaşı\source\repos\DatabaseManager\DatabaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\itextsharp.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Buffers.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Data.SqlClient.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Memory.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\itextsharp.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Buffers.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Data.SqlClient.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Memory.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.AssemblyReference.cache
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.DatabaseListForm.resources
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Form1.resources
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Properties.Resources.resources
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.GenerateResource.cache
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\Database.A8297DAC.Up2Date
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\yunus.kurt\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.pdb
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\itextsharp.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Buffers.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Memory.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.ValueTuple.dll
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\itextsharp.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Buffers.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Memory.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\bin\Debug\System.ValueTuple.xml
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.AssemblyReference.cache
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.DatabaseListForm.resources
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Form1.resources
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.Properties.Resources.resources
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.GenerateResource.cache
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\Database.A8297DAC.Up2Date
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\Gizem Gölbaşı\Desktop\DatabaseManager\DatabaseManager\DatabaseManager\obj\Debug\DatabaseManager.pdb
